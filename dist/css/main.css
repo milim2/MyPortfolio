@@ -40,7 +40,7 @@
   .menu-nav {
     margin: 0;
     padding: 0;
-    background: #285060;
+    background: #21414e;
     list-style: none;
     transform: translate3d(0, -100%, 0);
     transition: all 0.5s ease-out; }
@@ -56,11 +56,11 @@
       width: 250px;
       height: 250px;
       background: url("../img/portrait2.jpg");
-      border: solid 3px secondary-color;
+      border: solid px secondary-color;
       grid-area: bioimage;
       margin: auto;
       border-radius: 50%;
-      border: #f18c8e 3px solid; }
+      border: #f18c8e 5px solid; }
   .menu .nav-item {
     transform: translate3d(600px, 0, 0);
     transition: all 0.5s ease-out; }
@@ -74,7 +74,7 @@
     font-size: 30px;
     text-transform: uppercase;
     padding: 1rem 0;
-    font-weight: 300;
+    font-weight: 400;
     color: #fff;
     text-decoration: none;
     transition: all 0.5s ease-out; }
@@ -115,7 +115,7 @@ body {
       width: 100%;
       height: 100%;
       z-index: -1;
-      background: rgba(48, 95, 114, 0.9); }
+      background: rgba(48, 95, 114, 0.6); }
 
 h1,
 h2,
@@ -183,7 +183,7 @@ main {
     background: #386e84;
     padding: 0.5rem;
     border-top: #f18c8e 7px solid;
-    border-bottom: #f18c8e 10px solid; }
+    border-bottom: #f18c8e 7px solid; }
     .about-info .job p,
     .about-info .job ul {
       font-size: 0.9rem;
