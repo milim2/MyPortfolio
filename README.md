@@ -15,5 +15,4 @@
 + npm run deploy
 
 5. Overview
-![home3](https://user-images.githubusercontent.com/37784073/57562058-99bd8d00-735d-11e9-9cf3-a2bb40072350.jpg)(https://youtu.be/9QJ-EEeLU9s)
 
