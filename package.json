@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Responsive website",
   "main": "index.js",
-  "homepage": "https://github.com/milim2/responsive-javascript",
+  "homepage": "https://milim2.github.io/modern_portfolio",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive",
     "deploy": "gh-pages -d dist"
